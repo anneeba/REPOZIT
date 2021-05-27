@@ -1,0 +1,2 @@
+# REPOZIT
+manažovanie kódu git
